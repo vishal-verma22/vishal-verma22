@@ -12,13 +12,28 @@ Focused on building **reliable, maintainable, and real-world applications**
 through hands-on projects and practical experience.
 
 ---
+<table align="center">
+  <tr>
+    <td align="center"><b>Contact</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:vishalverma5690@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="mailto:vishalverma5690@gmail.com">vishalverma5690@gmail.com</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/vishal-verma-283305314">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/vishal-verma-283305314">linkedin.com/in/vishal-verma-283305314</a>
+    </td>
+  </tr>
+</table>
 
-### ## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-
-Open to **internships, collaboration, and backend projects**.
+<p align="center">Open to <b>Internships, Collaboration</b>, and <b>Backend projects</b>.</p>
 
 
 ---
