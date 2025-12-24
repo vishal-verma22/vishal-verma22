@@ -11,24 +11,29 @@ backend development, **OOP principles**, and **RESTful APIs**.
 Focused on building **reliable, maintainable, and real-world applications**  
 through hands-on projects and practical experience.
 
----
 <table align="center">
   <tr>
     <td align="center"><b>Contact</b></td>
   </tr>
   <tr>
-    <td>
-      <a href="mailto:vishalverma5690@gmail.com">
+    <td align="center">
+      <!-- Gmail -->
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vishalverma5690@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="mailto:vishalverma5690@gmail.com">vishalverma5690@gmail.com</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vishalverma5690@gmail.com" target="_blank">
+        vishalverma5690@gmail.com
+      </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/vishal-verma-283305314">
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/vishal-verma-283305314" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/vishal-verma-283305314">linkedin.com/in/vishal-verma-283305314</a>
+      <a href="https://www.linkedin.com/in/vishal-verma-283305314" target="_blank">
+        linkedin.com/in/vishal-verma-283305314
+      </a>
     </td>
   </tr>
 </table>
